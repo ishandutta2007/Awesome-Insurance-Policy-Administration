@@ -57,7 +57,7 @@ This repository tracks notable **SaaS enterprise platforms** and **open-source G
 
 > 💡 **Open-Source Note:** Full enterprise policy administration systems (PAS) handle heavy regulatory compliance and complex rating algorithms. The projects below represent the best available open-source core frameworks, reference architectures, rating libraries, and policy management modules for developers building custom InsurTech solutions. ⚡
 
-| Repository & Link 🔗 | Star Count 🌟 | Description 📝 | Key Features 🗝️ |
+| Repository & Link 🔗 | Stars_Count 🌟 | Description 📝 | Key Features 🗝️ |
 | :--- | :--- | :--- | :--- |
 | 🏛️ **[aposin/openinsuranceplatform](https://github.com/aposin/openinsuranceplatform)** | [![Stars](https://img.shields.io/github/stars/aposin/openinsuranceplatform?style=social&color=white)](https://github.com/aposin/openinsuranceplatform/stargazers) | Comprehensive open-source core insurance platform covering policy contracts, claims, billing, and commissions. | Party management, policy contract lifecycle, claims settlement, commission distribution engine. |
 | 🚗 **[open-insurance/auto-insurance-policy-admin](https://github.com/open-insurance/auto-insurance-policy-admin)** | [![Stars](https://img.shields.io/github/stars/open-insurance/auto-insurance-policy-admin?style=social&color=white)](https://github.com/open-insurance/auto-insurance-policy-admin/stargazers) | Modern open-source auto policy administration and quoting engine built with Node.js & React. | Quote calculation, auto policy generation, endorsement portal, API-first architecture. |
@@ -74,7 +74,7 @@ Contributions are warmly welcomed! Help keep this InsurTech resource updated and
 
 1. 🍴 **Fork the repository**
 2. 📝 **Add or edit entries** in `README.md` following the tabular format
-3. 🔍 **Verify details**: Include platform name, official link, precise descriptions, pricing details, and star badges
+3. 🔍 **Verify details**: Include platform name, official link, precise descriptions, pricing details, and Stars_Badges
 4. 🚀 **Submit a Pull Request** with a brief summary of your changes
 
 ---
